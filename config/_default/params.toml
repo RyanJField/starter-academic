@@ -127,7 +127,7 @@ contact_links = [
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = ""
+twitter = "RyanJField"
 
 ############################
 ## Regional Settings
@@ -174,7 +174,7 @@ abstract_length = 135
 
 # Load JS plugins
 #   E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
-plugins_js  = ["analytics"]
+plugins_js  = []
 
 # Avatars.
 # An avatar is an image that appears next to a user's name.
@@ -273,7 +273,7 @@ plugins_js  = ["analytics"]
 ## Marketing
 ############################
 [marketing]
-  google_analytics = ""
+  google_analytics = "UA-177280416-1"
   google_tag_manager = ""
 
 ############################
