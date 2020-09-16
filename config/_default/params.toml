@@ -89,18 +89,18 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "ryan@ryanfield.me"
-phone = ""
+phone = "0141 330 4042"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "450 Serra Mall", city = "Stanford", region = "CA", postcode = "94305", country = "Scotland", country_code = "GB"}
+address = {street = "Room 203 H2, 1 Lilybank Gardens", city = "Glasgow", region = "", postcode = "G12 8RZ", country = "Scotland", country_code = "GB"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "37.4275", longitude = "-122.1697"}
+coordinates = {latitude = "55.875034", longitude = "-4.2936731"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
+directions = "Enter Building 1 and report to reception"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -124,10 +124,10 @@ contact_links = [
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/media/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "ryan-field.jpg"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = "RyanJField"
+twitter = "Ryan_J_Field"
 
 ############################
 ## Regional Settings
@@ -140,7 +140,7 @@ date_format = "Jan 2, 2006"
 time_format = "3:04 PM"
 
 # Address format (en-us, en-gb, de, fr-fr, zh).
-address_format = "en-us"
+address_format = "en-gb"
 
 ############################
 ## Advanced
@@ -265,8 +265,8 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 2
-  api_key = ""
+  engine = 1
+  api_key = "AIzaSyClVWaNg4uZDlkBeK14rkbvxKw0ywuAVa4"
   zoom = 15
 
 ############################
