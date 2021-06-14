@@ -66,3 +66,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+<h3 style="color:white"> Guest Blog Post: University of Glasgow PGR Blog</h3>
+
+### [Researching for a PhD with Dyslexia and Dyspraxia](https://uofgpgrblog.com/pgrblog/2020/12/16/phdwithdyslexiadyspraxia)</h3>
+
+Dec 16, 2020
