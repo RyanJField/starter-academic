@@ -15,21 +15,23 @@ role: PhD Candidate
 # Organizations/Affiliations
 organizations:
 - name: University of Glasgow
-  url: ""
+  url: "https://www.gla.ac.uk/pgrs/ryanfield/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Looking at Big Data techniques on Heart Failure Data
 
 interests:
 - Big Data
+- Joint Modelling
 - Heart Failure
 - Software Engineering
+- R Shiny
 
 education:
   courses:
   - course: PhD in Public Health
     institution: University of Glasgow
-    year: 2022
+    year: 2019 - Present
   - course: MSc in Software Engineering
     institution: University of Hertfordshire
     year: 2016
@@ -70,4 +72,4 @@ user_groups:
 - Visitors
 ---
 
-Ryan Field is a PhD Candidate at the University of Glasgow
+Ryan Field is a PhD Candidate and PGR Representative at the University of Glasgow.

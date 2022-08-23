@@ -18,19 +18,49 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = "Expert"
+
+[[feature]]
+  icon = "shiny"
+  icon_pack = "custom"
+  name = "R Shiny"
+  description = "Expert"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
-  
+  description = "Proficient"  
+
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon = "ds"
+  icon_pack = "custom"
+  name = "Data Science"
+  description = "Expert"
+
+[[feature]]
+  icon = "cpp"
+  icon_pack = "custom"
+  name = "C++"
+  description = "Expert"
+
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "Expert"
+
+[[feature]]
+  icon = "java"
+  icon_pack = "fab"
+  name = "Java"
+  description = "Expert"
+
+[[feature]]
+  icon = "php"
+  icon_pack = "fab"
+  name = "php"
+  description = "Expert"
 
 # Uncomment to use emoji icons.
 # [[feature]]
